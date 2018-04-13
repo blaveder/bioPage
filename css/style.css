@@ -1,0 +1,53 @@
+body {
+    margin: 0;
+    padding: 0;
+    }
+    html {
+    line-height: 1.5rem;
+    font-family: Arial, Helvetica, sans-serif;
+    }
+ header {
+    background: darkgrey;
+    padding: 2rem;
+    text-align: center;
+     
+ }
+ #bodyC {
+    border-right: 2px solid grey;
+    border-bottom: 2px solid grey;
+    border-left: 2px solid grey;
+ }
+    div.container {
+    width: 100%;
+    max-width: 1024px;
+    margin: 0 auto;
+    }
+    section#main-bio {
+        float: left;
+        width: 66%;
+        padding: 0 2% 0 2%;
+    }
+    section#contact-info {
+    float: left;
+    width: 30%;
+    }
+    img#bio-image {
+    float: left;
+    margin: 0 2%;
+    width: 200px;
+    }
+    
+    .header {
+     background: #333;
+    }
+    h1 {
+    color: #eee;
+    font-size: 28px;
+    }
+    h2 {
+    font-size: 24px;
+    
+    }
+    a {
+    color: #d21034;
+    }
