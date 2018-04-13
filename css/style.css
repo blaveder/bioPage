@@ -1,53 +1,51 @@
 body {
     margin: 0;
-    padding: 0;
-    }
-    html {
+    padding: 10% 0 0 0;
+    background: darkslategrey;
+}
+html {
     line-height: 1.5rem;
     font-family: Arial, Helvetica, sans-serif;
-    }
+}
  header {
     background: darkgrey;
     padding: 2rem;
     text-align: center;
-     
  }
  #bodyC {
-    border-right: 2px solid grey;
-    border-bottom: 2px solid grey;
-    border-left: 2px solid grey;
+
+    background: white;
  }
-    div.container {
+div.container {
     width: 100%;
     max-width: 1024px;
     margin: 0 auto;
-    }
-    section#main-bio {
-        float: left;
-        width: 66%;
-        padding: 0 2% 0 2%;
-    }
-    section#contact-info {
+    box-shadow: 0px 0px 10px black;
+}
+section#main-bio {
+    float: left;
+    width: 66%;
+    padding: 0 2% 0 2%;
+}
+section#contact-info {
     float: left;
     width: 30%;
-    }
-    img#bio-image {
+}
+img#bio-image {
     float: left;
     margin: 0 2%;
     width: 200px;
-    }
-    
-    .header {
+}
+.header {
      background: #333;
-    }
-    h1 {
+}
+h1 {
     color: #eee;
     font-size: 28px;
-    }
-    h2 {
+}
+h2 {
     font-size: 24px;
-    
-    }
-    a {
+}
+a {
     color: #d21034;
-    }
+}
